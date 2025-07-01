@@ -7,3 +7,5 @@ I trained and worked as a **Software Engineer** for many years (e.g. enterprise,
 Most of my public repositories are related to machine learning or to my hobby as a Quake archivist.
 
 You can learn more about me and my projects on my [personal homepage](https://jasonbrownlee.me/).
+
+My GitHub username used to be [github.com/jbrownlee](https://web.archive.org/web/20100214152816/http://github.com/jbrownlee) (archived), circa 2008-2021.
